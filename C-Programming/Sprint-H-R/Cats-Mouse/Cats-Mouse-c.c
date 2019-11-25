@@ -30,7 +30,7 @@ int main()
     
 		scanf(" %d",&mouse);
 
-        printf("%s", Cats_Mouse(catA, catB, mouse));
+                printf("%s", Cats_Mouse(catA, catB, mouse));
 	
 	}
 
